@@ -2,5 +2,6 @@
 
 *First repository*
 
-Michael Kagan 
-10/08/2022
+- Michael Kagan 
+
+- 10/08/2022
